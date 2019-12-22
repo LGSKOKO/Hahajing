@@ -4,7 +4,7 @@
 
   	**河南大学创新实践项目--哈哈镜，这个是基于Java语言实现的哈哈镜项目；** :sunglasses:
     	
-    	**你可以借鉴/使用本项目，或者在本项目的基础上进行改进；**:artificial_satellite:  :accept:
+    	**你可以借鉴/使用本项目，或者在本项目的基础上进行改进；**     :artificial_satellite:  :accept:
 
 ------
 
